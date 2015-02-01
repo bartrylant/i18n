@@ -49,8 +49,8 @@ nl-nl:
   enter_title: Titel
   order_number: Volgorde
   publish_date: 'Geschreven op'
-  publish_time: Om
-  save_publish: 'Sla op en publiceer'
+  publish_time: om
+  save_publish: 'Bewaar en publiceer'
   content: Inhoud
 
   # Statuses
@@ -82,16 +82,16 @@ nl-nl:
   users_not_writable: "De directory 'Users' is niet beschrijfbaar"
   msg_password_encrypted: 'Het wachtwoord is versleuteld. Log opnieuw in.'
   incorrect_username: 'Gebruiksnaam niet gevonden'
-  incorrect_password: 'Incorrect wachtwoord'
-  incorrect_username_password: 'Incorrecte gebruiksnaam of wachtwoord. Probeer het nog eens.'
+  incorrect_password: 'Verkeerd wachtwoord'
+  incorrect_username_password: 'Verkeerde gebruiksnaam of wachtwoord. Probeer het nog eens.'
   entry_deleted: 'Item is verwijderd'
-  page_saved: 'Pagina is opgeslagen'
-  entry_saved: 'Item is opgeslagen'
-  member_saved: 'Gebruiker is opgeslagen'
+  page_saved: 'Pagina is bewaard'
+  entry_saved: 'Item is bewaard'
+  member_saved: 'Gebruiker is bewaard'
 
   error: Fout
   error_form_submission: 'Sorry, door een fout kon het formulier niet worden verstuurd.'
-  are_you_sure: 'Weet je dit zeker? Je kunt deze handeling niet herstellen.'
+  are_you_sure: 'Weet je dit zeker? Je kunt deze handeling niet ongedaan maken.'
   access_denied: 'Geen toegang'
   enable_curl: 'Ondersteuning van cURL moet aan staan om de veiligheidstest uit te kunnen voeren.'
 
